@@ -1,99 +1,150 @@
-# Hi 👋, I'm Prince Kumar
+<div align="center">
 
-### Aspiring Software Engineer | Java & DSA | AI & Data Science
+# 👋 Hi, I'm **Prince Kumar**
 
-I'm a B.Tech Computer Science student specializing in **AI & Data Science** at GLA University.
+### `Aspiring Software Engineer` • `Java & DSA` • `AI & Data Science`
 
-I enjoy solving programming problems, building practical projects, and continuously improving my skills in **software development, data structures, databases, and AI**.
+<p>
+  <a href="https://www.linkedin.com/in/princekumar2222">LinkedIn</a> •
+  <a href="https://leetcode.com/u/princekumar2222/">LeetCode</a> •
+  <a href="https://princekumar2222.github.io/">Portfolio</a>
+</p>
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-* 🎓 B.Tech CSE — AI & Data Science
-* 💻 Focused on **Java & Data Structures and Algorithms**
-* 🐍 Learning **Python, SQL & Data Science**
-* 🤖 Exploring **Artificial Intelligence & Data Science**
-* 🚀 Building projects to strengthen my software development skills
-* ⚽ Football enthusiast
+I'm a **B.Tech Computer Science student specializing in AI & Data Science** at GLA University.
+
+I enjoy building practical projects, solving programming problems, and continuously improving my skills in **software development, DSA, databases, and AI**.
+
+```text
+🎯 Goal       → Become a strong Software Engineer
+💻 Focus      → Java + DSA + Problem Solving
+🤖 Exploring  → AI & Data Science
+🌱 Learning   → Python + SQL + Machine Learning
+⚡ Mindset    → Learn • Build • Improve
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming
 
-`Java` `Python` `C`
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c" height="45"/>
+</p>
 
-### Core Computer Science
+### 🌐 Web & Development
 
-`Data Structures & Algorithms` `Object-Oriented Programming` `Problem Solving`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express" height="45"/>
+</p>
 
-### Databases
+### 🗄️ Database
 
-`MySQL` `Oracle SQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="45"/>
+</p>
 
-### Web Development
+### 🔧 Tools
 
-`HTML` `CSS` `JavaScript`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
+</p>
 
-### Tools
+---
 
-`Git` `GitHub` `VS Code`
+## 🔥 What I'm Working On
+
+| Area            | Focus                                  |
+| --------------- | -------------------------------------- |
+| ☕ **Java**      | DSA & problem solving                  |
+| 🧠 **DSA**      | Arrays, Strings, Sliding Window & more |
+| 🐍 **Python**   | Data Science & programming             |
+| 🗄️ **SQL**     | Database concepts & queries            |
+| 🤖 **AI & DS**  | Exploring AI/ML concepts               |
+| 🚀 **Projects** | Building practical applications        |
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Data Structures & Algorithms
+### 🏫 School Attendance System
 
-Java implementations of data structures, algorithms, and problem-solving approaches.
+A web-based attendance management system designed for simple and practical school attendance tracking.
 
-### 🔹 LeetCode Solutions
+**Node.js • Express • SQLite • HTML • CSS • JavaScript**
 
-My collection of LeetCode solutions focused primarily on **Java, DSA, and problem solving**.
+### 🧠 Data Structures & Algorithms
 
-### 🔹 Personal Portfolio
+A collection of my **Java DSA implementations and problem-solving practice**.
 
-My developer portfolio showcasing my skills, projects, and learning journey.
+**Java • DSA • Problem Solving**
+
+### 💻 LeetCode Solutions
+
+My collection of programming solutions focused on improving **DSA, logic, and competitive problem-solving skills**.
+
+**Java • LeetCode • Algorithms**
+
+### 🌐 Personal Portfolio
+
+My personal developer portfolio showcasing my skills, projects, and learning journey.
+
+**HTML • CSS • JavaScript**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princekumar2222&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekumar2222&layout=compact&hide_border=true" height="170"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=princekumar2222&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekumar2222&layout=compact&hide_border=true" height="165"/>
+
+</div>
 
 ---
 
 ## 🧠 Currently Learning
 
-* Data Structures & Algorithms with Java
-* SQL & Database Management
-* Python for Data Science
-* Artificial Intelligence & Machine Learning
-* Software Development
+* ☕ Data Structures & Algorithms with Java
+* 🗄️ Database Management & SQL
+* 🐍 Python for Data Science
+* 🤖 Artificial Intelligence & Machine Learning
+* 💻 Software Development
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/princekumar2222">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://leetcode.com/u/princekumar2222/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <a href="https://princekumar2222.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/princekumar2222">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/princekumar2222/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://princekumar2222.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### 💡 "Consistency beats intensity."
+<div align="center">
 
-Thanks for visiting my profile! ⭐
+### ⚡ **Learn. Build. Solve. Repeat.**
+
+⭐ Thanks for visiting my profile!
+
+</div>
