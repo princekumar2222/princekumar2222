@@ -75,6 +75,7 @@
 
 ## 📊 GitHub Activity
 
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
@@ -85,14 +86,12 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
-    <img src="./assets/contributions.light.svg" alt="GitHub Contributions" width="100%">
+    <img src="./assets/contributions.light.svg" alt="GitHub Contributions" width="49%">
   </picture>
-</p>
 
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg">
-    <img src="./assets/lifetime.light.svg" alt="GitHub Lifetime Contributions" width="100%">
+    <img src="./assets/lifetime.light.svg" alt="GitHub Lifetime Contributions" width="49%">
   </picture>
 </p>
 
