@@ -73,26 +73,15 @@
 
 ---
 
-## 📊 GitHub Activity
-
+## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
-    <img src="./assets/overview.light.svg" alt="GitHub Overview" width="100%">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=princekumar2222&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princekumar2222&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
-    <img src="./assets/contributions.light.svg" alt="GitHub Contributions" width="49%">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg">
-    <img src="./assets/lifetime.light.svg" alt="GitHub Lifetime Contributions" width="49%">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princekumar2222&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%">
 </p>
 
 ---
@@ -117,14 +106,6 @@ A web-based attendance management system with admin controls, attendance history
 
 🔗 **Repository:**
 https://github.com/princekumar2222/school-attendance-system
-
----
-
-### 📱 HelpMeApp
-
-**Tech:** Java • Android • SMS Intent • Phone Intent
-
-An Android emergency assistance application designed to provide quick access to emergency communication features.
 
 ---
 
