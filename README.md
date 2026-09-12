@@ -1,28 +1,99 @@
-<h1 align="center">Hi 👋, I'm Prince kumar</h1>
-<h3 align="center">Aspiring software engineer</h3>
+# Hi 👋, I'm Prince Kumar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princekumar2222&label=Profile%20views&color=0e75b6&style=flat" alt="princekumar2222" /> </p>
+### Aspiring Software Engineer | Java & DSA | AI & Data Science
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princekumar2222" alt="princekumar2222" /></a> </p>
+I'm a B.Tech Computer Science student specializing in **AI & Data Science** at GLA University.
 
-- 🌱 I’m currently learning **full stack , dsa with java , Artificial intelligence & data science , python , mysql , oracle , dsa with java**
+I enjoy solving programming problems, building practical projects, and continuously improving my skills in **software development, data structures, databases, and AI**.
 
-- 💬 Ask me about **java , python , mysql**
+---
 
-- ⚡ Fun fact **In my free time i love to play football.**
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/princekumar2222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princekumar2222" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/princekumar2222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="princekumar2222" height="30" width="40" /></a>
+* 🎓 B.Tech CSE — AI & Data Science
+* 💻 Focused on **Java & Data Structures and Algorithms**
+* 🐍 Learning **Python, SQL & Data Science**
+* 🤖 Exploring **Artificial Intelligence & Data Science**
+* 🚀 Building projects to strengthen my software development skills
+* ⚽ Football enthusiast
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+`Java` `Python` `C`
+
+### Core Computer Science
+
+`Data Structures & Algorithms` `Object-Oriented Programming` `Problem Solving`
+
+### Databases
+
+`MySQL` `Oracle SQL`
+
+### Web Development
+
+`HTML` `CSS` `JavaScript`
+
+### Tools
+
+`Git` `GitHub` `VS Code`
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Data Structures & Algorithms
+
+Java implementations of data structures, algorithms, and problem-solving approaches.
+
+### 🔹 LeetCode Solutions
+
+My collection of LeetCode solutions focused primarily on **Java, DSA, and problem solving**.
+
+### 🔹 Personal Portfolio
+
+My developer portfolio showcasing my skills, projects, and learning journey.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princekumar2222&show_icons=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekumar2222&layout=compact&hide_border=true" height="170"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princekumar2222&show_icons=true&locale=en&layout=compact" alt="princekumar2222" /></p>
+## 🧠 Currently Learning
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princekumar2222&show_icons=true&locale=en" alt="princekumar2222" /></p>
+* Data Structures & Algorithms with Java
+* SQL & Database Management
+* Python for Data Science
+* Artificial Intelligence & Machine Learning
+* Software Development
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princekumar2222&" alt="princekumar2222" /></p>
+---
 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/princekumar2222">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://leetcode.com/u/princekumar2222/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://princekumar2222.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome"/>
+  </a>
+</p>
+
+---
+
+### 💡 "Consistency beats intensity."
+
+Thanks for visiting my profile! ⭐
