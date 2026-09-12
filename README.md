@@ -99,7 +99,13 @@ My personal developer portfolio showcasing my skills, projects, and learning jou
 
 ---
 
+## 📈 GitHub Activity
 
+> 🟩 **GitHub Contribution Graph**
+>
+> Your complete contribution calendar, contribution count and activity history are available directly on your GitHub profile.
+
+**GitHub:** [@princekumar2222](https://github.com/princekumar2222)
 
 ---
 
@@ -110,6 +116,26 @@ My personal developer portfolio showcasing my skills, projects, and learning jou
 * 🐍 Python for Data Science
 * 🤖 Artificial Intelligence & Machine Learning
 * 💻 Software Development
+
+---
+
+## 📊 Coding Journey
+
+<div align="center">
+
+### 💻 LeetCode
+
+**200+ Problems Solved**
+
+### ☕ Primary Language
+
+**Java**
+
+### 🧠 Current Focus
+
+**DSA • Problem Solving • Software Development**
+
+</div>
 
 ---
 
