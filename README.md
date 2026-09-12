@@ -99,15 +99,7 @@ My personal developer portfolio showcasing my skills, projects, and learning jou
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=princekumar2222&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekumar2222&layout=compact&hide_border=true" height="165"/>
-
-</div>
 
 ---
 
